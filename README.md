@@ -1,3 +1,4 @@
+## 🚀 About Me
 Myself Pritam PhadtareCloud & DevOps Enthusiast focused on building secure, reliable, and cost-efficient infrastructure for production workloads. I enjoy turning manual operations into repeatable automation and designing Kubernetes/AWS architectures that are easy to run and easy to scale.<br>Open to: collaborating on DevOps tooling, platform engineering, and cloud-native projects.<br>
 
 
